@@ -6,7 +6,6 @@ Hi, I’m Phannindra. I work with automotive service information and data.
 
 - SQL and data quality
 - Databricks and data engineering
-- Git and GitHub
 
 ## What I’m Working On
 
